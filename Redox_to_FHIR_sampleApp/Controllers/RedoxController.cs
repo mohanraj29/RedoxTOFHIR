@@ -35,7 +35,7 @@ namespace Redox_to_FHIR_sampleApp.Controllers
             Identifier identifire = new Identifier();
             Assigner assigner = new Assigner()
             {
-                reference = "Organization/675844"
+                reference = "Organization/675555"
             };
             identifire.assigner = assigner;
             identifiers.Add(identifire);
