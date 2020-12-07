@@ -1,6 +1,7 @@
+/.vs
 /.vscode
 /Redox_to_FHIR_sampleApp/bin
 /Redox_to_FHIR_sampleApp/obj
 /Redox_to_FHIR_sampleApp/Redox_to_FHIR_sampleApp.csproj.user
-/.vs
+
 
